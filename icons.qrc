@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icones/back_enabled.png</file>
+        <file>icones/back_enabled_hover.png</file>
+        <file>icones/calander.png</file>
+        <file>icones/comment_button.png</file>
+        <file>icones/download.png</file>
+        <file>icones/forward_enabled.png</file>
+        <file>icones/forward_enabled_hover.png</file>
+        <file>icones/game_movement1.png</file>
+        <file>icones/game_movement2.png</file>
+        <file>icones/game_movement3.png</file>
+        <file>icones/house_button.png</file>
+        <file>icones/icons8-news-feed-48.png</file>
+        <file>icones/images.png</file>
+        <file>icones/kisspng-computer-icons-customer-service-favicon-desktop-wa-icon-customers-drawing-5ab1957e19a495.6958333915215875821051.png</file>
+        <file>icones/print.png</file>
+        <file>icones/Reports.png</file>
+        <file>icones/user.jpg</file>
+        <file>icones/visual-design.png</file>
+    </qresource>
+</RCC>
